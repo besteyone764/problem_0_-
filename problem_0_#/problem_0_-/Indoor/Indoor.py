@@ -1,3 +1,6 @@
-voice = input("What do you want to appear in  lowercase?  ")
-# answer in lowercase
-print(voice.lower())
+def indoor():
+  reply = str(input("Enter your Text?  ")).split()
+  print (f" {"...".join(reply)}")
+
+if ___name__'main__':
+    indoor()
